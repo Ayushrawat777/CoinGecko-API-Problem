@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoinGecko-API-Problem/static/css/main.7e9b7636.css",
+    "main.js": "/CoinGecko-API-Problem/static/js/main.1cfb1219.js",
+    "static/js/453.ed3810f9.chunk.js": "/CoinGecko-API-Problem/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/CoinGecko-API-Problem/index.html",
+    "main.7e9b7636.css.map": "/CoinGecko-API-Problem/static/css/main.7e9b7636.css.map",
+    "main.1cfb1219.js.map": "/CoinGecko-API-Problem/static/js/main.1cfb1219.js.map",
+    "453.ed3810f9.chunk.js.map": "/CoinGecko-API-Problem/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e9b7636.css",
+    "static/js/main.1cfb1219.js"
+  ]
+}
